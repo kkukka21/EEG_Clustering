@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18125287.svg)]
+(https://doi.org/10.5281/zenodo.18125287)
+
 EEG_Clustering Plugin for EEGLAB
 ================================
 
